@@ -1,3 +1,5 @@
+TEST TEST
+
 <div class="diagram">
 st=>start: Start|past:>http://www.google.com[blank]
 e=>end: Ende|future:>http://www.google.com
